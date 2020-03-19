@@ -12,12 +12,6 @@ This is my attempt to store my dotfiles in a clean way.
 
 ### Ways to write Python in VIM!
 - https://realpython.com/vim-and-python-a-match-made-in-heaven/
+### Run test in VIM and Tmux
 
-
-### Ways to manage `.vimrc`
-- https://learnvimscriptthehardway.stevelosh.com/chapters/07.html
-
-
-### Linking Nim to Vim
-
-- https://neovim.io/doc/user/nvim.html#nvim-from-vim
+- https://gist.github.com/purpleP/74240ddce79d358cd920d1c085a44bd3
