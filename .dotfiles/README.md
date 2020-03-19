@@ -15,3 +15,7 @@ This is my attempt to store my dotfiles in a clean way.
 ### Run test in VIM and Tmux
 
 - https://gist.github.com/purpleP/74240ddce79d358cd920d1c085a44bd3
+
+### Run test with vimtest
+
+- https://github.com/janko/vim-test
